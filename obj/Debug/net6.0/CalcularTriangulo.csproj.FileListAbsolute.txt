@@ -1,0 +1,14 @@
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\bin\Debug\net6.0\CalcularTriangulo.exe
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\bin\Debug\net6.0\CalcularTriangulo.deps.json
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\bin\Debug\net6.0\CalcularTriangulo.runtimeconfig.json
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\bin\Debug\net6.0\CalcularTriangulo.dll
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\bin\Debug\net6.0\CalcularTriangulo.pdb
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\CalcularTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\CalcularTriangulo.AssemblyInfoInputs.cache
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\CalcularTriangulo.AssemblyInfo.cs
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\CalcularTriangulo.csproj.CoreCompileInputs.cache
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\CalcularTriangulo.dll
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\refint\CalcularTriangulo.dll
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\CalcularTriangulo.pdb
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\CalcularTriangulo.genruntimeconfig.cache
+E:\fauez\Documents\Analise e desenvolvimento de Sistema\Curso C#\projetos\CalcularTriangulo\CalcularTriangulo\obj\Debug\net6.0\ref\CalcularTriangulo.dll
